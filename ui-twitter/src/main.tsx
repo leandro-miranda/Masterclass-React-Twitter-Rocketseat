@@ -13,7 +13,7 @@ ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
       <Sidebar />
 
       <div className="content">
-          <RouterProvider router={router} />
+        <RouterProvider router={router} />
       </div>
     </div>
   </React.StrictMode>,

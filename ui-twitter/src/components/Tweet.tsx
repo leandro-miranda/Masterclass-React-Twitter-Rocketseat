@@ -24,7 +24,7 @@ export function Tweet(props: TweetProps) {
 						<ChatCircle />
 						20
 					</button>
-					
+
 					<button type='button'>
 						<ArrowsClockwise />
 						20
