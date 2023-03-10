@@ -21,11 +21,11 @@ export function Timeline() {
   }
 
   function handleHotkeySubmit(event: KeyboardEvent) {
-		if (event.key === 'Enter' && (event.ctrlKey || event.metaKey)) {
-			setTweets([newTweet, ...tweets])
+    if (event.key === 'Enter' && (event.ctrlKey || event.metaKey)) {
+      setTweets([newTweet, ...tweets])
       setNewTweet('')
-		}
-	}
+    }
+  }
 
   return (
     <main className='timeline'>
