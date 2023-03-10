@@ -10,3 +10,4 @@ Esse projeto é um clone da interface de usuário (UI) do Twitter utilizando Rea
 
 Você pode conferir o projeto funcionando aqui:
 
+https://masterclass-react-twitter-rocketseat.vercel.app/
